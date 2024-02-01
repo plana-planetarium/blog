@@ -4,7 +4,7 @@ date: 2024-02-01 00:18:00
 type: about
 ---
 
-# Hi, there is about
+# Hi, there is `About`
 
 ---
 
@@ -20,11 +20,13 @@ type: about
 
 |Website|Account|
 |:-:|:-:|
-|QQ|[3412294524]|
+|QQ|`3412294524`|
 |Github|[A.R.O.N.A]|
-|Email|3412294524@qq.com|
+|Email|`3412294524@qq.com`|
 
+## 最后附上一张普拉娜的立绘
 
-[3412294524]: http://wpa.qq.com/msgrd?v=3&uin=3412294524&site=qq&menu=yes
+![普拉娜][立绘]
+
 [A.R.O.N.A]: https://github.com/plana-planetarium
-
+[立绘]: about/立绘.png
